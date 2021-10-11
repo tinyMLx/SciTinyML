@@ -9,19 +9,18 @@ title: false
 
 # Welcome!
 
->SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run virtually from October 18-22, 2021. 
-<!-- Click **[here](TBD)** to join our Zoom call. -->
+>SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run virtually from October 18-22, 2021. <br> The Zoom link was sent out to all registered attendees. Please check your email and/or [sign up for our workshop](http://indico.ictp.it/event/9622/).
 
-SciTinyML is an ICTP Virtual Meeting for the [TinyML4D Academic Network](https://tinyml.seas.harvard.edu/4D/AcademicNetwork).
+SciTinyML is an ICTP Virtual Meeting supported by the [TinyML4D Academic Network](https://tinyml.seas.harvard.edu/4D/AcademicNetwork) and open to all.
 
-tinyML enables machine learning technologies to perform on-device analytics of sensor data at extremely low power. This allows for new scientific applications to be developed at an extremely low cost and at large scale.
+Embedded machine learning (tinyML) enables machine learning technologies to perform on-device analytics of sensor data at extremely low power. This allows for new scientific applications to be developed at an extremely low cost and at large scale.
  
-In recent years, hardware advancements have made it possible for microcontrollers to perform calculations much faster. Improved hardware has made it easier for developers to build programs on these devices. Perhaps the most important trend for scientists has been the rise of tiny machine learning, or tinyML.
+In recent years, hardware advancements have made it possible for microcontrollers to perform calculations much faster. Improved hardware has made it easier for developers to build programs on these devices. Perhaps the most important trend for scientists has been the rise of embedded machine learning, or tinyML.
  
 Between hardware advancements and the tinyML community’s recent innovations in machine learning, it is now possible to run increasingly complex deep learning models directly on microcontrollers. tinyML represents a collaborative eﬀort between the embedded power systems and machine learning communities, which traditionally have operated independently.
  
 Topics:
-+ Introduction to (tiny) ML
++ Introduction to Embedded ML (tinyML)
 + Examples of tinyML applications
 + Scientific Applications of ML
 
@@ -33,7 +32,7 @@ Topics:
 
 | Day   | Date             | Topics | Speakers |
 |-------|------------------|----------------|----------------|
-| Day 1 | Monday    | Introduction to (tiny) ML | [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University and [Laurence Moroney](https://laurencemoroney.com/) of Google |
+| Day 1 | Monday    | Introduction to Embedded ML (tinyML) | [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University and [Laurence Moroney](https://laurencemoroney.com/) of Google |
 | Day 2 | Tuesday   | Ethical Issues and Tools for ML and IoT | [Serge Stinckwich](https://cs.unu.edu/people/experts/15926.html) of UNU and TBD |
 | Day 3 | Wednesday | Hands on tinyML - Vision and Audio | [Brian Plancher](https://brianplancher.com/) and [Mark Mazumder](https://markmaz.com/) of Harvard University|
 | Day 4 | Thursday  | Hands on tinyML - Anomaly Dection and Scientific Applications of TinyML| [Marcelo Rovai](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/) of UNIFEI and TBD |

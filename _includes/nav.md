@@ -4,6 +4,6 @@
 
 ***
 
-* [Home]({{ relative_url }})
+* [Home]({{ "/" | relative_url }})
 * [Schedule]({{ "/#workshop-schedule" | relative_url }})
 * [Team]({{ "/team" | relative_url }})
