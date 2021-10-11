@@ -35,7 +35,7 @@ Topics:
 | Day 1 | Monday    | Introduction to Embedded ML (tinyML) | [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University and [Laurence Moroney](https://laurencemoroney.com/) of Google |
 | Day 2 | Tuesday   | Ethical Issues and Tools for ML and IoT | [Serge Stinckwich](https://cs.unu.edu/people/experts/15926.html) of UNU and TBD |
 | Day 3 | Wednesday | Hands on tinyML - Vision and Audio | [Brian Plancher](https://brianplancher.com/) and [Mark Mazumder](https://markmaz.com/) of Harvard University|
-| Day 4 | Thursday  | Hands on tinyML - Anomaly Dection and Scientific Applications of TinyML| [Marcelo Rovai](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/) of UNIFEI and TBD |
+| Day 4 | Thursday  | Hands on tinyML - Anomaly Detection and Scientific Applications of TinyML| [Marcelo Rovai](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/) of UNIFEI and TBD |
 | Day 5 | Friday    | Academic Network Next Steps and Closing Keynotes | [Marco Zenaro](http://users.ictp.it/~mzennaro/) of ICTP, [Susan Kennedy](https://www.susan-kennedy.com/) of Santa Clara University, and [Pete Warden](https://petewarden.com/) of Google |
 
 ### Questions?
