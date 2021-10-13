@@ -9,6 +9,7 @@ title: false
 
 # Welcome!
 
+<div id = "LOCAL_TIME"></div>
 >SciTinyML: Scientific Use of Machine Learning on Low-Power Devices will be run virtually from October 18-22, 2021. <br> The Zoom link was sent out to all registered attendees. Please check your email and/or [sign up for our workshop](http://indico.ictp.it/event/9622/).
 
 SciTinyML is an ICTP Virtual Meeting supported by the [TinyML4D Academic Network](https://tinyml.seas.harvard.edu/4D/AcademicNetwork) and open to all.
@@ -34,8 +35,8 @@ Topics:
 |-------|------------------|----------------|----------------|
 | Day 1 | Monday    | Introduction to Embedded ML (tinyML) | [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University and [Laurence Moroney](https://laurencemoroney.com/) of Google |
 | Day 2 | Tuesday   | Ethical Issues and Tools for ML and IoT | [Serge Stinckwich](https://cs.unu.edu/people/experts/15926.html) of UNU and TBD |
-| Day 3 | Wednesday | Hands on tinyML - Vision and Audio | [Brian Plancher](https://brianplancher.com/) and [Mark Mazumder](https://markmaz.com/) of Harvard University|
-| Day 4 | Thursday  | Hands on tinyML - Anomaly Detection and Scientific Applications of TinyML| [Marcelo Rovai](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/) of UNIFEI and TBD |
+| Day 3 | Wednesday | Hands on Embedded ML - Vision and Audio | [Brian Plancher](https://brianplancher.com/) and [Mark Mazumder](https://markmaz.com/) of Harvard University|
+| Day 4 | Thursday  | Hands on Embedded ML - Anomaly Detection and Scientific Applications of Embedded ML| [Marcelo Rovai](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/) of UNIFEI and [Matthew Stewart](http://mpstewart.net/) of Harvard University |
 | Day 5 | Friday    | Academic Network Next Steps and Closing Keynotes | [Marco Zenaro](http://users.ictp.it/~mzennaro/) of ICTP, [Susan Kennedy](https://www.susan-kennedy.com/) of Santa Clara University, and [Pete Warden](https://petewarden.com/) of Google |
 
 ### Questions?
@@ -43,3 +44,12 @@ Contact [edu@tinyml.org](mailto:edu@tinyml.org) with any questions regarding thi
 
 ### Supporters
 We would like to thank **Harvard SEAS**, **tinyML Foundation**, **ICTP**, **Edge Impulse**, **Google**, and the **TensorFlow Lite Micro Team** for the continued support of all of our TinyML educational content!
+
+<script>
+  var start = new Date('10/18/2021 1:00:00 PM UTC');
+  var end = new Date('10/18/2021 4:00:00 PM UTC');
+  var localTime = start.toLocaleTimeString() + " to " + end.toLocaleTimeString();
+  var startString = "The workshop will run each day from 1:00 PM to 4:00 PM GMT which is "
+  var endString = " in your local timezone (according to your computer system time)."
+  document.getElementById('LOCAL_TIME').innerHTML = startString + localTime + endString;
+</script>
