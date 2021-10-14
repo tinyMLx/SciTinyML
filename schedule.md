@@ -67,7 +67,7 @@ title: Detailed Schedule
         &nbsp;&nbsp;&nbsp;<i>1:00pm</i>&nbsp; Day Opening<br>
         &nbsp;&nbsp;&nbsp;<i>1:10pm</i>&nbsp; Hands on Embedded ML - Motion/Anomaly Detection and Scientific Applications<br>
         &nbsp;&nbsp;&nbsp;<i>3:00pm</i>&nbsp; Break<br>
-        &nbsp;&nbsp;&nbsp;<i>3:10pm</i>&nbsp; ML for Ecology and Conservation<br>
+        &nbsp;&nbsp;&nbsp;<i>3:10pm</i>&nbsp; Applications of TinyML for Atmospheric Monitoring<br>
         &nbsp;&nbsp;&nbsp;<i>3:50pm</i>&nbsp; Day Closing
       </td>
       <td>
