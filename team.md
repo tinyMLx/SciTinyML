@@ -9,7 +9,7 @@ These individuals worked behind the scenes to make SciTinyML a reality. Feel fre
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Marco Zenaro" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/celment.jpeg" style="max-height: 13rem; width: auto;">
+      <img alt="Clement Onime" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/celment.jpeg" style="max-height: 13rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Clement Onime</b><br>
@@ -20,7 +20,7 @@ These individuals worked behind the scenes to make SciTinyML a reality. Feel fre
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Marco Zenaro" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/nishanth.jpg" style="max-height: 13rem; width: auto;">
+      <img alt="Nishanth Sastry" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/nishanth.jpg" style="max-height: 13rem; width: auto;">
     </div>
     <div class="grid-child">
         <b>Nishanth Sastry</b><br>
@@ -31,10 +31,10 @@ These individuals worked behind the scenes to make SciTinyML a reality. Feel fre
 
 <div class="grid-container-team">
     <div class="grid-child">
-      <img alt="Marco Zenaro" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/marco.jpg" style="max-height: 15rem; width: auto;">
+      <img alt="Marco Zennaro" class="card-img img-thumbnail" src="{{ site.baseurl }}/assets/team/marco.jpg" style="max-height: 15rem; width: auto;">
     </div>
     <div class="grid-child">
-        <b>Marco Zenaro</b><br>
+        <b>Marco Zennaro</b><br>
         <b>Local Organizer</b><br>
         Research Scientist, <i>ICTP</i><br>
         <a href="http://users.ictp.it/~mzennaro/">users.ictp.it/~mzennaro</a><br>

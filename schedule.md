@@ -86,7 +86,7 @@ title: Detailed Schedule
         &nbsp;&nbsp;&nbsp;<i>3:50pm</i>&nbsp; Workshop Closing
       </td>
       <td>
-        <a href="http://users.ictp.it/~mzennaro/">Marco Zenaro</a> of ICTP<br>
+        <a href="http://users.ictp.it/~mzennaro/">Marco Zennaro</a> of ICTP<br>
         <a href="https://www.linkedin.com/in/halspeed/">Hal Speed</a> of Robotical<br>
         <a href="https://www.susan-kennedy.com/">Susan Kennedy</a> of Santa Clara University<br>
         <a href="https://petewarden.com/">Pete Warden</a> of Google</td>
