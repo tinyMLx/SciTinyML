@@ -99,6 +99,6 @@ title: Detailed Schedule
   var end = new Date('10/18/2021 4:00:00 PM UTC');
   var localTime = start.toLocaleTimeString([], {timeStyle: 'short'}) + " to " + end.toLocaleTimeString([], {timeStyle: 'short'});
   var startString = "The workshop will run each day from 1:00 PM to 4:00 PM GMT which is "
-  var endString = " in your local timezone (according to your computer system time). All times below are in GMT."
+  var endString = " in your local timezone (according to your computer system time). All times below are in GMT. Exact timing subject to change."
   document.getElementById('LOCAL_TIME').innerHTML = startString + localTime + endString;
 </script>
