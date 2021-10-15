@@ -37,7 +37,7 @@ Topics:
 |-------|------------------|----------------|----------------|
 | Day 1 | Monday    | Introduction to Embedded ML (tinyML) | [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) of Harvard University and [Laurence Moroney](https://laurencemoroney.com/) of Google |
 | Day 2 | Tuesday   | Hands on Embedded ML - Vision and Audio | [Brian Plancher](https://brianplancher.com/) and [Mark Mazumder](https://markmaz.com/) of Harvard University|
-| Day 3 | Wednesday | Sensors and Ethical Issues for ML and IoT | [Serge Stinckwich](https://cs.unu.edu/people/experts/15926.html) of UNU and [Sebastian Büttrich](https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html) of IT University of Copenhagen |
+| Day 3 | Wednesday | Sensors and Ethical Issues for ML and IoT | [Serge Stinckwich](https://cs.unu.edu/people/experts/15926.html) and [Attlee Gamundani](https://unu.edu/experts/15908.html) of United Nations University Institute in Macau and [Sebastian Büttrich](https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html) of IT University of Copenhagen |
 | Day 4 | Thursday  | Hands on Embedded ML - Motion/Anomaly Detection and Scientific Applications | [Marcelo Rovai](https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/) of UNIFEI and [Matthew Stewart](http://mpstewart.net/) of Harvard University |
 | Day 5 | Friday    | Academic Network Next Steps and Closing Keynotes | [Marco Zennaro](http://users.ictp.it/~mzennaro/) of ICTP, [Hal Speed](https://www.linkedin.com/in/halspeed/) of Robotical, [Susan Kennedy](https://www.susan-kennedy.com/) of Santa Clara University, and [Pete Warden](https://petewarden.com/) of Google |
 

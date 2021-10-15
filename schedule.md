@@ -26,6 +26,7 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home">Vijay Janapa Reddi</a> of Harvard University<br>
+        <hr style="height:3px;"/>
         <a href="https://laurencemoroney.com/">Laurence Moroney</a> of Google</td>
     </tr>
     <tr>
@@ -39,7 +40,8 @@ title: Detailed Schedule
         &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">3:50:00 PM</i>&nbsp; Day Closing
       </td>
       <td>
-        <a href="https://brianplancher.com/">Brian Plancher</a> of Harvard University<br>
+        <a href="https://brianplancher.com/">Brian Plancher</a> of Harvard University
+        <hr style="height:3px;"/>
         <a href="https://markmaz.com/">Mark Mazumder</a> of Harvard University
       </td>
     </tr>
@@ -56,8 +58,10 @@ title: Detailed Schedule
         &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">3:50:00 PM</i>&nbsp; Day Closing
       </td>
       <td>
-        <a href="https://cs.unu.edu/people/experts/15926.html">Serge Stinckwich</a> of UNU<br>
         <a href="https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html">Sebastian Büttrich</a> of IT University of Copenhagen
+        <hr style="height:3px;"/>
+        <a href="https://cs.unu.edu/people/experts/15926.html">Serge Stinckwich</a> and <a href="https://unu.edu/experts/15908.html">Attlee Gamundani</a><br>
+        of United Nations University Institute in Macau<br>
       </td>
     </tr>
     <tr>
@@ -72,6 +76,7 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/">Marcelo Rovai</a> of UNIFEI<br>
+        <hr style="height:3px;"/>
         <a href="http://mpstewart.net/">Matthew Stewart</a> of Harvard University</td>
     </tr>
     <tr>
@@ -87,8 +92,11 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="http://users.ictp.it/~mzennaro/">Marco Zennaro</a> of ICTP<br>
+        <hr style="height:3px;"/>
         <a href="https://www.linkedin.com/in/halspeed/">Hal Speed</a> of Robotical<br>
+        <hr style="height:3px;"/>
         <a href="https://www.susan-kennedy.com/">Susan Kennedy</a> of Santa Clara University<br>
+        <hr style="height:3px;"/>
         <a href="https://petewarden.com/">Pete Warden</a> of Google</td>
     </tr>
   </tbody>
