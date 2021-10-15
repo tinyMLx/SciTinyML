@@ -57,7 +57,7 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="https://cs.unu.edu/people/experts/15926.html">Serge Stinckwich</a> of UNU<br>
-        TBD
+        <a href="https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html">Sebastian Büttrich</a> of IT University of Copenhagen
       </td>
     </tr>
     <tr>
