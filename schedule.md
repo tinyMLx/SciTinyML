@@ -29,7 +29,7 @@ title: Detailed Schedule
         <a href="{{ site.baseurl }}/assets/slides/WorkshopOpening.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
         <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home">Vijay Janapa Reddi</a> of Harvard University<br>
-        Slides Coming Soon | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/FutureOfTinyMLApplications.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
         <a href="https://laurencemoroney.com/">Laurence Moroney</a> of Google<br>
         <a href="{{ site.baseurl }}/assets/slides/MayTheTensorsFlow.pdf">Slides</a> | Video Coming Soon
@@ -50,7 +50,7 @@ title: Detailed Schedule
         <a href="{{ site.baseurl }}/assets/slides/HandsOnVisionAudio.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
         <a href="https://markmaz.com/">Mark Mazumder</a> of Harvard University<br>
-        Slides Coming Soon | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/MultilingualKWS.pdf">Slides</a> | Video Coming Soon
       </td>
     </tr>
     <tr>
