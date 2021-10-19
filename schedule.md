@@ -25,9 +25,15 @@ title: Detailed Schedule
         &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">3:50:00 PM</i>&nbsp; Day Closing<br>
       </td>
       <td>
-        <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home">Vijay Janapa Reddi</a> of Harvard University<br>
+        <a href="http://users.ictp.it/~mzennaro/">Marco Zennaro</a> of ICTP<br>
+        <a href="{{ site.baseurl }}/assets/slides/WorkshopOpening.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
-        <a href="https://laurencemoroney.com/">Laurence Moroney</a> of Google</td>
+        <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home">Vijay Janapa Reddi</a> of Harvard University<br>
+        Slides Coming Soon | Video Coming Soon
+        <hr style="height:3px;"/>
+        <a href="https://laurencemoroney.com/">Laurence Moroney</a> of Google<br>
+        <a href="{{ site.baseurl }}/assets/slides/MayTheTensorsFlow.pdf">Slides</a> | Video Coming Soon
+      </td>
     </tr>
     <tr>
       <td>Day 2</td>
@@ -40,9 +46,11 @@ title: Detailed Schedule
         &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">3:50:00 PM</i>&nbsp; Day Closing
       </td>
       <td>
-        <a href="https://brianplancher.com/">Brian Plancher</a> of Harvard University
+        <a href="https://brianplancher.com/">Brian Plancher</a> of Harvard University<br>
+        <a href="{{ site.baseurl }}/assets/slides/HandsOnVisionAudio.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
-        <a href="https://markmaz.com/">Mark Mazumder</a> of Harvard University
+        <a href="https://markmaz.com/">Mark Mazumder</a> of Harvard University<br>
+        Slides Coming Soon | Video Coming Soon
       </td>
     </tr>
     <tr>
