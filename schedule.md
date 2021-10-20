@@ -66,7 +66,8 @@ title: Detailed Schedule
         &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">3:50:00 PM</i>&nbsp; Day Closing
       </td>
       <td>
-        <a href="https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html">Sebastian Büttrich</a> of IT University of Copenhagen
+        <a href="https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html">Sebastian Büttrich</a> of IT University of Copenhagen<br>
+        <a href="{{ site.baseurl }}/assets/slides/IntroductionToSensors.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
         <a href="https://cs.unu.edu/people/experts/15926.html">Serge Stinckwich</a> and <a href="https://unu.edu/experts/15908.html">Attlee Gamundani</a><br>
         of United Nations University Institute in Macau<br>
