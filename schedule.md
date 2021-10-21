@@ -71,7 +71,7 @@ title: Detailed Schedule
         <hr style="height:3px;"/>
         <a href="https://cs.unu.edu/people/experts/15926.html">Serge Stinckwich</a> and <a href="https://unu.edu/experts/15908.html">Attlee Gamundani</a><br>
         of United Nations University Institute in Macau<br>
-        Slides Coming Soon | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/EthicalIoT.pdf">Slides</a> | Video Coming Soon
       </td>
     </tr>
     <tr>
@@ -88,7 +88,9 @@ title: Detailed Schedule
         <a href="https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/">Marcelo Rovai</a> of UNIFEI<br>
         <a href="{{ site.baseurl }}/assets/slides/HandsOnAnomaly.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
-        <a href="http://mpstewart.net/">Matthew Stewart</a> of Harvard University</td>
+        <a href="http://mpstewart.net/">Matthew Stewart</a> of Harvard University<br>
+        <a href="{{ site.baseurl }}/assets/slides/TinyMLAtmosphericMonitoring.pdf">Slides</a> | Video Coming Soon
+      </td>
     </tr>
     <tr>
       <td>Day 5</td>
