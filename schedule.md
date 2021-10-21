@@ -26,13 +26,13 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="http://users.ictp.it/~mzennaro/">Marco Zennaro</a> of ICTP<br>
-        <a href="{{ site.baseurl }}/assets/slides/WorkshopOpening.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/WorkshopOpening.pdf">Slides</a> | <a href="https://youtu.be/d3uK8hg2DQM">Video</a>
         <hr style="height:3px;"/>
         <a href="https://scholar.harvard.edu/vijay-janapa-reddi/home">Vijay Janapa Reddi</a> of Harvard University<br>
-        <a href="{{ site.baseurl }}/assets/slides/FutureOfTinyMLApplications.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/FutureOfTinyMLApplications.pdf">Slides</a> | <a href="https://youtu.be/mI49C8skwCY">Video</a>
         <hr style="height:3px;"/>
         <a href="https://laurencemoroney.com/">Laurence Moroney</a> of Google<br>
-        <a href="{{ site.baseurl }}/assets/slides/MayTheTensorsFlow.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/MayTheTensorsFlow.pdf">Slides</a> | <a href="https://youtu.be/CbpCUglsECI">Video</a>
       </td>
     </tr>
     <tr>
@@ -47,10 +47,10 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="https://brianplancher.com/">Brian Plancher</a> of Harvard University<br>
-        <a href="{{ site.baseurl }}/assets/slides/HandsOnVisionAudio.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/HandsOnVisionAudio.pdf">Slides</a> | <a href="https://youtu.be/8HU1uOqZmLA">Video</a>
         <hr style="height:3px;"/>
         <a href="https://markmaz.com/">Mark Mazumder</a> of Harvard University<br>
-        <a href="{{ site.baseurl }}/assets/slides/MultilingualKWS.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/MultilingualKWS.pdf">Slides</a> | <a href="https://youtu.be/qt7myxqkHK4">Video</a>
       </td>
     </tr>
     <tr>
@@ -71,6 +71,7 @@ title: Detailed Schedule
         <hr style="height:3px;"/>
         <a href="https://cs.unu.edu/people/experts/15926.html">Serge Stinckwich</a> and <a href="https://unu.edu/experts/15908.html">Attlee Gamundani</a><br>
         of United Nations University Institute in Macau<br>
+        Slides Coming Soon | Video Coming Soon
       </td>
     </tr>
     <tr>
@@ -85,6 +86,7 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/">Marcelo Rovai</a> of UNIFEI<br>
+        <a href="{{ site.baseurl }}/assets/slides/HandsOnAnomaly.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
         <a href="http://mpstewart.net/">Matthew Stewart</a> of Harvard University</td>
     </tr>
