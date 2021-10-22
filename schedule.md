@@ -113,7 +113,9 @@ title: Detailed Schedule
         <a href="https://www.susan-kennedy.com/">Susan Kennedy</a> of Santa Clara University<br>
         <a href="{{ site.baseurl }}/assets/slides/ResponsibleAI.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
-        <a href="https://petewarden.com/">Pete Warden</a> of Google</td>
+        <a href="https://petewarden.com/">Pete Warden</a> of Google<br>
+        Slides Coming Soon | Video Coming Soon
+      </td>
     </tr>
   </tbody>
 </table>
