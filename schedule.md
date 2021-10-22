@@ -100,7 +100,7 @@ title: Detailed Schedule
         &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">1:35:00 PM</i>&nbsp; AI and Education<br>
         &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">2:10:00 PM</i>&nbsp; Break<br>
         &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">2:20:00 PM</i>&nbsp; Responsible Embedded AI<br>
-        &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">3:05:00 PM</i>&nbsp; TensorFlowLite for Microcontrollers<br>
+        &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">3:05:00 PM</i>&nbsp; The Importance of Embedded ML<br>
         &nbsp;&nbsp;&nbsp;<i class="GMT_TIME">3:50:00 PM</i>&nbsp; Workshop Closing
       </td>
       <td>
@@ -114,7 +114,7 @@ title: Detailed Schedule
         <a href="{{ site.baseurl }}/assets/slides/ResponsibleAI.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
         <a href="https://petewarden.com/">Pete Warden</a> of Google<br>
-        Slides Coming Soon | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/EmbeddedMLImportance.pdf">Slides</a> | Video Coming Soon
       </td>
     </tr>
   </tbody>
