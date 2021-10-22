@@ -105,10 +105,13 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="http://users.ictp.it/~mzennaro/">Marco Zennaro</a> of ICTP<br>
+        <a href="{{ site.baseurl }}/assets/slides/AcademicNetwork.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
         <a href="https://www.linkedin.com/in/halspeed/">Hal Speed</a> of Robotical<br>
+        <a href="{{ site.baseurl }}/assets/slides/AI4K12.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
         <a href="https://www.susan-kennedy.com/">Susan Kennedy</a> of Santa Clara University<br>
+        <a href="{{ site.baseurl }}/assets/slides/ResponsibleAI.pdf">Slides</a> | Video Coming Soon
         <hr style="height:3px;"/>
         <a href="https://petewarden.com/">Pete Warden</a> of Google</td>
     </tr>
