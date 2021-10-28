@@ -67,11 +67,11 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="https://nsrc.org/sites/all/themes/nsrc/bios/SebastianBuettrich.html">Sebastian Büttrich</a> of IT University of Copenhagen<br>
-        <a href="{{ site.baseurl }}/assets/slides/IntroductionToSensors.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/IntroductionToSensors.pdf">Slides</a> | <a href="https://youtu.be/nlyRPqkAoy0">Video</a>
         <hr style="height:3px;"/>
         <a href="https://cs.unu.edu/people/experts/15926.html">Serge Stinckwich</a> and <a href="https://unu.edu/experts/15908.html">Attlee Gamundani</a><br>
         of United Nations University Institute in Macau<br>
-        <a href="{{ site.baseurl }}/assets/slides/EthicalIoT.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/EthicalIoT.pdf">Slides</a> | <a href="https://youtu.be/Y0mrdf5YKnY">Video</a>
       </td>
     </tr>
     <tr>
@@ -86,10 +86,10 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="https://www.linkedin.com/in/marcelo-jose-rovai-brazil-chile/">Marcelo Rovai</a> of UNIFEI<br>
-        <a href="{{ site.baseurl }}/assets/slides/HandsOnAnomaly.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/HandsOnAnomaly.pdf">Slides</a> | <a href="https://youtu.be/bk3A27jl2JU">Video</a>
         <hr style="height:3px;"/>
         <a href="http://mpstewart.net/">Matthew Stewart</a> of Harvard University<br>
-        <a href="{{ site.baseurl }}/assets/slides/TinyMLAtmosphericMonitoring.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/TinyMLAtmosphericMonitoring.pdf">Slides</a> | <a href="https://youtu.be/oAu6bYvo5VA">Video</a>
       </td>
     </tr>
     <tr>
@@ -105,16 +105,16 @@ title: Detailed Schedule
       </td>
       <td>
         <a href="http://users.ictp.it/~mzennaro/">Marco Zennaro</a> of ICTP<br>
-        <a href="{{ site.baseurl }}/assets/slides/AcademicNetwork.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/AcademicNetwork.pdf">Slides</a> | <a href="https://youtu.be/34B64mySrGc">Video</a>
         <hr style="height:3px;"/>
         <a href="https://www.linkedin.com/in/halspeed/">Hal Speed</a> of Robotical<br>
-        <a href="{{ site.baseurl }}/assets/slides/AI4K12.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/AI4K12.pdf">Slides</a> | <a href="https://youtu.be/dOwZuh085-4">Video</a>
         <hr style="height:3px;"/>
         <a href="https://www.susan-kennedy.com/">Susan Kennedy</a> of Santa Clara University<br>
-        <a href="{{ site.baseurl }}/assets/slides/ResponsibleAI.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/ResponsibleAI.pdf">Slides</a> | <a href="https://youtu.be/DDA3lb7iVqg">Video</a>
         <hr style="height:3px;"/>
         <a href="https://petewarden.com/">Pete Warden</a> of Google<br>
-        <a href="{{ site.baseurl }}/assets/slides/EmbeddedMLImportance.pdf">Slides</a> | Video Coming Soon
+        <a href="{{ site.baseurl }}/assets/slides/EmbeddedMLImportance.pdf">Slides</a> | <a href="https://youtu.be/qWkiKCXGUzA">Video</a>
       </td>
     </tr>
   </tbody>
